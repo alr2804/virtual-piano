@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+
+}
+
+.container {
+
+    height: max-content;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    padding-top: 300px;
+
+}
+
+kbd {
+    background-color: white;
+    border: 1px solid #000000;
+    font-size: large;
+    padding: 120px 20px 0px 20px;
+    margin: 0;
+    line-height: 100px;
+
+}
